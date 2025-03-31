@@ -2,7 +2,7 @@
 
 
 
-- ⚡ I’m currently working at [Google](https://www.google.com.tr/?hl=tr)
+- ⚡ Ex-Google
 - 👀 I’m interested in AI, healthcare technologies, and product development.
 - 📫 How to [Reach Me](https://www.linkedin.com/in/efe-turgut-3616b5274/)
 - 💞️ I’m looking to collaborate on AI-based health solutions, pharmaceutical R&D, and innovative tech projects.
