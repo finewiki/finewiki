@@ -1,9 +1,8 @@
-# <img src="https://img.icons8.com/?size=100&id=V5cGWnc9R4xj&format=png&color=000000" alt="Icons8 Görseli" width="28" height="28"> Hey, I'm Wiki!
+Hey, I'm Wiki!
 
 
 
-- ⚡ Ex-Google
-- 👀 I’m interested in AI, healthcare technologies, and product development.
+- 👀 I’m interested in AI, healthcare technologies, and agent development.
 - 📫 How to [Reach Me](https://www.linkedin.com/in/efe-turgut-3616b5274/)
 - 💞️ I’m looking to collaborate on AI-based health solutions, pharmaceutical R&D, and innovative tech projects.
 
